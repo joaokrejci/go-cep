@@ -16,7 +16,7 @@ UF: SP
 ```
 
 ``` shell
-go-cep busca -l "São João" -u "SP" -C "São Paulo"
+go-cep busca -l "Avenida São José" -u "SP" -C "São Paulo"
 
 1. 08245-040
    Avenida São José do Cedro - Vila Progresso (Zona Leste) - São Paulo - SP
