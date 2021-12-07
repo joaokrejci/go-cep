@@ -5,7 +5,7 @@ Encontre informações de endereço a partir de um CEP ou procure por um CEP a p
 ## Utilização
 
 ``` shell
-go-cep 01001-000
+go-cep cep 01001-000
 
 Logradouro: Praça da Sé
 Complemento: Lado Ímpar
@@ -16,7 +16,7 @@ UF: SP
 ```
 
 ``` shell
-go-cep -b -l "São João" -u "SP" -C "São Paulo"
+go-cep busca -l "São João" -u "SP" -C "São Paulo"
 
 1. 08245-040
    Avenida São José do Cedro - Vila Progresso (Zona Leste) - São Paulo - SP
@@ -26,7 +26,7 @@ go-cep -b -l "São João" -u "SP" -C "São Paulo"
 
 ### `cep` busca padrão por cep
 
-Especifica uma busca por cep (pode ser omitido)
+Especifica uma busca por cep
 
 ### `busca` busca por endereço
 
