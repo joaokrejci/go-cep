@@ -2,6 +2,8 @@
 
 Encontre informações de endereço a partir de um CEP ou procure por um CEP a partir do nome de uma rua
 
+[![codecov](https://codecov.io/gh/joaokrejci/go-cep/branch/main/graph/badge.svg?token=87B8Q3MJNE)](https://codecov.io/gh/joaokrejci/go-cep)
+
 ## Utilização
 
 ``` shell
